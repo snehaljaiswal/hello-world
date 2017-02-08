@@ -1,1 +1,3 @@
 # hello-world
+this is really fantastic cource.....i had already done one of the course i.e. programming in c++.
+now, i want to learn how to developed android application by this course...
